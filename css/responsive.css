@@ -1,0 +1,204 @@
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+  .top-menu{
+    display: none;
+  }
+  .leaf-4:after{
+    right: -20px;
+  }
+  .part-txt-2{
+    margin-left: 50px;
+  }
+}
+@media only screen and (min-device-width: 1400px) and (max-device-width: 2400px) and (orientation : portrait) {
+  .menu{
+    display: none;
+  }
+}
+@media only screen and (min-device-width: 780px) and (max-device-width: 993px)   {
+  .top-menu{
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width: 1440px) {
+  .menu{
+    display: none;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .menu{
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+
+  .menu{
+    display: block;
+  }
+
+}
+
+@media only screen and (min-width: 768px) {
+
+  }
+  
+
+@media only screen and (max-width: 767px) {
+  .foot-img-02{
+    margin: 0;
+    left: 0;
+    top: 0;
+  }
+  .eke-logo-2{
+    top: -162px;
+  }
+  .part-txt-2{
+    margin: 0;
+    text-align: start;
+  }
+  .part-bg-2{
+    margin: 0;
+  }
+  .eke-logo{
+    top: -177px;
+  }
+  .part-txt{
+    width: 100%;
+  }
+  .part-bg{
+    margin: 0;
+  }
+  .top-menu{
+    display: none;
+  }
+  .top-slider .owl-theme .owl-nav{
+    margin: 0;
+  }
+  .scroll-down{
+    margin-top: -38px;
+  }
+  .know-btn{
+    right: -18%;
+  }
+  .know-sm-btn{
+    right: -12%;
+  }
+  .content{
+    padding-bottom: 20px;
+  }
+  .projects{
+    padding: 10px 0;
+  }
+  .content .content-overlay{
+    height: 88%;
+  }
+  .img-know{
+    margin-bottom: 0;
+  }
+  .green-band ul li{
+  font-size: 10px;
+  margin-bottom: 10px;
+  width: 80%;
+  position: relative;
+  right: 20px;
+  font-size: 14px;
+  }
+  .green-band {
+    text-align: center!important;
+    padding-top: 10px;
+  }
+  .green-band  li{
+  padding: 10px;
+  border: 1px solid #f4e4cd;
+  border-radius: 20px;
+
+  }
+  .about-us{
+    padding-top: 20px;
+    padding-bottom: 0;
+  }
+  .con-btn{
+    margin: 4px 0;
+  }
+  .gal-txt-bottom p{
+    position: absolute;
+    font-size: 14px;
+    line-height: 22px;
+    top: 20px;
+  }
+  .gal-txt p{
+    bottom: 12px;
+  }
+  .gal-txt{
+    padding-bottom: 10px;
+  }
+  .plan h2{
+    width: 50%;
+    font-size: 24px;
+  }
+  .floorplans ul li{
+    float: left;
+    width: 33%;
+    margin-bottom: 20px;
+  }
+  .floorplans .nav-link{
+    font-size: 14px;
+    padding: 5px 10px;
+    min-height: 50px;
+  }
+  .plan{
+    padding-bottom: 0;
+  }
+  .foot p{
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+ .bt-mob-img{
+  display: none!important;
+ }
+ .contact{
+  padding: 0;
+ }
+ .all-rcd ul li{
+  margin-top: 10px;
+ }
+ .ter-foot{
+  margin-left: 15px;
+ }
+ .pri-foot{
+  margin: 0;
+ }
+ .enquiry-btn{
+  transform: rotateZ(0deg) !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  width: 100%;
+  height: 58px;
+  top: unset!important;
+  font-size: 16px; }
+  .foot-bt-img{
+    padding-bottom: 45px;
+  }
+  .leaf-3{
+    display: none;
+  }
+  .leaf-4{
+    display: none;
+  }
+}
+@media screen and (max-width: 599px) {
+	
+}
+@media only screen and (min-width: 1000px) and (max-width: 1200px) {
+ 
+}
+@media only screen and (min-width: 768px) and (max-width: 999px) {
+ 
+}
+@media only screen and (min-width: 500px) and (max-width: 767px) {
+  
+}
